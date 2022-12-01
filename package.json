@@ -21,5 +21,6 @@
   },
   "bin" : {
     "roll-dice": "./bin/cli.js"
-  }
+  },
+  "type": "module"
 }
